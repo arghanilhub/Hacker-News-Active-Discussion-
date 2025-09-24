@@ -1,5 +1,6 @@
 # Hacker-News-Active-Discussion-
-![logo](https://github.com/arghanilhub/Hacker-News-Active-Discussion-/blob/main/hc.png "lgo") 
+<img src="https://github.com/arghanilhub/Hacker-News-Active-Discussion-/blob/main/hc.png" alt="Y combinator"
+ style="width:500px;height:600px;">  
 Giving users to know on which latest submissions- most disucssions are going on in the Hacker News. 
 <br />
 
