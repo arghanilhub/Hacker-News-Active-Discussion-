@@ -6,7 +6,7 @@ Giving users to know on which latest submissions- most disucssions are going on 
 
 ### Tech stack used : 
 * Python (used for scripting) and HTML (for UI) <br /> 
-* 3rd party libraries used : Request( for API calling), Plotly (for visualization), Streamlit (for deployment of this data app on cloud) 
+* 3rd party libraries used : Request( for API calling), Plotly (for visualization), Streamlit (for deployment of chart in cloud) 
 <br />
 
 ### Context of the webpage : 
