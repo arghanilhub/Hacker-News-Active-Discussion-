@@ -5,8 +5,8 @@
 Giving users to know on which latest submissions- most disucssions are going on in the Hacker News.
 <br />
 ### Tech stack used :
-* Python (used for scripting) and HTML (for UI) <br /> 
-* 3rd party libraries used : Requests( for API calling), Plotly (for visualization), Streamlit (for deployment of chart in cloud) 
+* Python (for scripting) <br /> 
+* 3rd party libraries used : Requests( for API calling), Plotly (for visualization), Streamlit (for deploying of data app in cloud)  
 <br />
 
 ### Context of the webpage :
