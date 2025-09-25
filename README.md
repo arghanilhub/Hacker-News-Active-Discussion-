@@ -5,8 +5,8 @@
 Giving users to know on which latest submissions- most disucssions are going on in the Hacker News.
 <br />
 ### Tech stack used :
-* Python (for scripting) <br /> 
-* 3rd party libraries used : Requests( for API calling), Plotly (for visualization), Streamlit (for deploying of data app in cloud)  
+* Python (for scripting and data processing) <br /> 
+* 3rd party libraries used : Requests( for API calling), Plotly (for visualization), Streamlit (for deploying data app in cloud and UI)   
 <br />
 
 ### Context of the webpage :
@@ -18,6 +18,6 @@ Giving users to know on which latest submissions- most disucssions are going on 
  * ETL framework used here, where extraction of Hacker News submission data from their **top stories** and **each submission** API endpoints. <br />
  * Processed those data to build datasets and load into visualization scipt. <br />
  * Made an Interactive chart with **plotly express** from those datasets . <br /> 
- * Wrap the whole script under **Streamlit framework** for deploying the data app, in their community clounds and also for UI purposes. <br />
+ * Wrap the whole script under **Streamlit framework** for deploying the data app, in their community clounds and also for UI purposes, used streamlit markdown and html tags. <br />
  * Solved the slow loading in streamlit servers, by using the **catching** concept in the script. 
    
