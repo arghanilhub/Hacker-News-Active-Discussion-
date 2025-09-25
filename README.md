@@ -20,4 +20,5 @@ Giving users to know on which latest submissions- most disucssions are going on 
  * Made an Interactive chart with **plotly express** from those datasets . <br /> 
  * Wrap the whole script under **Streamlit framework** for deploying the data app, in their community clounds and also for UI purposes. <br />
  * Solved the slow loading in streamlit servers, by using the **catching** concept in the script. 
-  
+ <br />
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hackernewsdiscussions.streamlit.app/)  
