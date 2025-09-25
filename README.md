@@ -1,10 +1,9 @@
 <img src="https://github.com/arghanilhub/Hacker-News-Active-Discussion-/blob/main/hc.png" alt="Y combinator"
  style="width:60px;height:60px;"> 
  ## Hacker-News-Active-Discussion
-Giving users to know on which latest submissions- most disucssions are going on in the Hacker News. <br /> 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hackernewsdiscussions.streamlit.app/)  
+ [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hackernewsdiscussions.streamlit.app/)  
+Giving users to know on which latest submissions- most disucssions are going on in the Hacker News.
 <br />
-
 ### Tech stack used :
 * Python (used for scripting) and HTML (for UI) <br /> 
 * 3rd party libraries used : Requests( for API calling), Plotly (for visualization), Streamlit (for deployment of chart in cloud) 
