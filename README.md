@@ -16,7 +16,7 @@ Giving users to know on which latest submissions- most disucssions are going on 
 
  ### Concepts used :
  * ETL framework used here, where extraction of Hacker News submission data from their **top stories** and **each submission** API endpoints. <br />
- * Processed those data to build datasets and load into visualization scipt. <br />
+ * Processed those data to build datasets on no. of comments they got, interactive submission titles and hover texts for upvotes. <br />
  * Made an Interactive chart with **plotly express** from those datasets . <br /> 
  * Wrap the whole script under **Streamlit framework** for deploying the data app, in their community clounds and also for UI purposes, used streamlit markdown and html tags. <br />
  * Solved the slow loading in streamlit servers, by using the **catching** concept in the script. 
