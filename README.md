@@ -1,8 +1,8 @@
 <img src="https://github.com/arghanilhub/Hacker-News-Active-Discussion-/blob/main/hc.png" alt="Y combinator"
  style="width:60px;height:60px;"> 
- ## Hacker-News-Active-Discussion
+ ## Instantly Find the Hottest, Real-Time Discussions on Hacker News 
  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hackernewsdiscussions.streamlit.app/)  
-Shows which recent Hacker News submissions are generating the **hottest, near-real time discussion**s, giving readers a direct entry point to actively participate in the most **current trending topics**. 
+Shows which recent Hacker News submissions are generating the hottest, **near-real time discussions**, giving readers a direct entry point to actively participate in the most **current trending topics**. 
 <br />
 ### Tech stack used :
 * Python (for scripting and data processing) <br /> 
