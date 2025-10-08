@@ -2,7 +2,7 @@
  style="width:60px;height:60px;"> 
  ## Hacker-News-Active-Discussion
  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hackernewsdiscussions.streamlit.app/)  
-Giving users to know on which latest submissions- most disucssions are going on in the Hacker News.
+Shows which recent Hacker News submissions are generating the **hottest, near-real time discussion**s, giving readers a direct entry point to actively participate in the most **current trending topics**. 
 <br />
 ### Tech stack used :
 * Python (for scripting and data processing) <br /> 
